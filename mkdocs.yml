@@ -8,12 +8,14 @@ nav:
     - skills.md
     - Научные инструменты:
       - Обработка данных: competencies/data.md
+      - Работа со статьями при помощи Emacs: competencies/papers_workflow_emacs.md
       - Методы научной визуализации : competencies/viz.md
       - Научные базы данных: share.md
 
     - IT-компетенции:
       - Программирование: competencies/it.md
       - Системы компьютерной верстки: competencies/LaTeX.md
+
 
     - Технологии коммуникации:
       - Презентация: competencies/plots.md
@@ -56,6 +58,11 @@ nav:
     - Уроки научных вычислений:
       - Notebook page: JNotebooks/Demo.ipynb
       - Notebook page: JNotebooks/Nlopt.ipynb
+      - Notebook page: JNotebooks/openmc pincell by Paul Romano.ipynb
+      - Notebook page: JNotebooks/openmc candu by Paul Romano.ipynb
+      - Notebook page: JNotebooks/openmc hexagonal lattice by Paul Romano.ipynb
+      - Notebook page: JNotebooks/openmc SFR by Paul Romano.ipynb
+      - Notebook page: JNotebooks/openmc VVER by Paul Romano.ipynb
     - Online-сервисы для исследователя:
       - Наукометрия: share.md
       - Работа с текстами: share.md
@@ -68,6 +75,12 @@ nav:
       - Скрипник Александр: experience/NeutronYield.md
       - Антонов Евгений: experience/repositoriesForYoungDevelopers.md
       - Макиенко Дарья: experience/ml_math_and_programming.md
+      - Епифанов Сергей: experience/DiagramPlotting.md
+      - Суханов Михаил: experience/ProgrammingPractice.md
+      - Дашанова Екатерина: experience/openmc_install.md
+      - Мамаев Михаил: experience/fist_steps_in_latex.md
+      - Кулямин Павел: experience/QE_Install_PC.md
+
     - Поделись своим опытом: share.md
   - Рекомендуемые курсы: catalogue.md  
   - FAQ: help.md
